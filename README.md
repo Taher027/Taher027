@@ -4,7 +4,6 @@ I’m a full-stack Web developer who is passionate about making error-free websi
 
 Skills: HTML-CSS-JAVASCRIPT-REACT JS -NEXT JS-NODE-EXPRESS-TYPESCRIPT-MONGODB-FIREBASE-BOOTSTRAP-TAILWIND-ANTDESIGN
 
-- 🔭 I’m currently working on self-learning 
 - 🌱 I’m currently learning SQL, PRISMA 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: abutaher.bl.1927@gmail.com 
