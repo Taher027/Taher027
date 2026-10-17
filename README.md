@@ -4,10 +4,10 @@ I’m a full-stack Web developer who is passionate about making error-free websi
 
 Skills: HTML-CSS-JAVASCRIPT-REACT JS -NEXT JS-NODE-EXPRESS-TYPESCRIPT-MONGODB-FIREBASE-BOOTSTRAP-TAILWIND-ANTDESIGN
 
-- 🌱 I’m currently learning SQL, PRISMA 
+- 🌱 I’m currently learning Docker and AI Implementations
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: abutaher.bl.1927@gmail.com 
-- ⚡ Fun fact: movie, traveling, cricket 
+- ⚡ Fun fact: movies, traveling, cricket 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Taher027)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/taher027/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taher.bl.27/)  
