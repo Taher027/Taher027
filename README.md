@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abu Taher Hossain
 #### I'm a Full-Stack Web Developer
-I'm a Full-Stack Web Developer who enjoys turning ideas into practical web applications. I love solving problems, exploring new technologies, and using AI tools to improve my workflow, explore solutions, and write better code. I'm always learning, experimenting, and looking for smarter ways to build for the web.
+I build practical web applications with clean code, thoughtful problem-solving, and user experience. I use AI tools to explore ideas, streamline development, and make informed technical decisions while continuously learning and refining my skills.
 
 
 - 🌱 I’m currently learning Docker and AI Implementations
