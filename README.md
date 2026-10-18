@@ -1,22 +1,92 @@
-### Hi there 👋, I'm Abu Taher Hossain
-#### I'm a Full-Stack Web Developer
-I build practical web applications with clean code, thoughtful problem-solving, and user experience. I use AI tools to explore ideas, streamline development, and make informed technical decisions while continuously learning and refining my skills.
+<h1 align="center">Hi 👋, I'm Abu Taher Hossain</h1>
+<h3 align="center"><span style="color:#2f81f7">Full-Stack Web Developer</span></h3>
 
-
-- 🌱 I’m currently learning Docker and AI Implementations
-- 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: abutaherh27@gmail.com 
-- ⚡ Fun fact: movies, traveling, cricket 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/https://github.com/Taher027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Taher027" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/taher027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/taher027" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="#" height="30" width="40" /></a>
-<a href="https://fb.com/abutaher.hossain.368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abutaher.hossain.368/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Clean+code.+Practical+apps." alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+- 👋 Hi, I’m **@Taher027**
+- 💻 I build practical web applications with clean code, thoughtful problem-solving, and great user experience.
+- 🖥️ Frontend: **React.js, Next.js, TypeScript, Tailwind CSS**
+- 🗄️ Backend: **Express.js, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, JWT**
+- 🌱 I’m currently learning **Docker** and **AI Implementations**
+- 🤖 I use AI tools to explore ideas, streamline development, and make informed technical decisions
+- 👯 I’m looking to collaborate on **GitHub**
+- 🎬 Fun fact: I love **movies, traveling, and cricket**
+- 📫 Reach me: [abutaherh27@gmail.com](mailto:abutaherh27@gmail.com)
 
+<br/>
+
+## 🌐 FOLLOW ME ON SOCIALS:
+---
+
+<p align="left">
+  <a href="https://github.com/Taher027" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/taher027" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/abutaher.hossain.368/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:abutaherh27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<br/>
+
+## 🛠️ TECHNOLOGY STACK:
+---
+
+**Languages:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="languages" />
+</p>
+
+**CSS Frameworks & Libraries:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="css frameworks" />
+</p>
+
+**JavaScript Frameworks & Libraries:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="js frameworks" />
+</p>
+
+**Database & ORM/ODM:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,firebase" alt="databases" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" height="48" />
+</p>
+
+**Authentication:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
+**Deployment Platform:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="deployment" />
+</p>
+
+**Tools & Technologies:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,notion,windows" alt="tools" />
+</p>
+
+**Currently Learning:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+</p>
+
+<br/>
+
+## 📊 GITHUB STATS:
+---
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taher027&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taher027&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
