@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner/github-banner.jpg" alt="Abu Taher Hossain - Full-Stack Web Developer" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abu Taher Hossain</h1>
 <h3 align="center"><span style="color:#2f81f7">Full-Stack Web Developer</span></h3>
 
@@ -6,11 +10,11 @@
 </p>
 
 - 👋 Hi, I’m **@Taher027**
-- 💻 I build practical web applications with clean code, thoughtful problem-solving, and great user experience.
+- 💻 Full-stack developer working with React, Next.js and Node. I build web apps and care about the small details.
 - 🖥️ Frontend: **React.js, Next.js, TypeScript, Tailwind CSS**
 - 🗄️ Backend: **Express.js, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, JWT**
 - 🌱 I’m currently learning **Docker** and **AI Implementations**
-- 🤖 I use AI tools to explore ideas, streamline development, and make informed technical decisions
+- 🤖 I use AI tools to speed up my work, but I review and understand every line I ship
 - 👯 I’m looking to collaborate on **GitHub**
 - 🎬 Fun fact: I love **movies, traveling, and cricket**
 - 📫 Reach me: [abutaherh27@gmail.com](mailto:abutaherh27@gmail.com)
