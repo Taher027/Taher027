@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./banner/github-banner.jpg" alt="Abu Taher Hossain - Full-Stack Web Developer" width="100%" />
 </p>
+<h1 align="center">Hi 👋, I'm Abu Taher Hossain</h1>
 <h3 align="center"><span style="color:#2f81f7">Full-Stack Web Developer</span></h3>
 
 <p align="center">
